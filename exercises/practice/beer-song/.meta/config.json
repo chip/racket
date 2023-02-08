@@ -1,5 +1,5 @@
 {
-  "authors": [],
+  "authors": ["chip"],
   "files": {
     "solution": [
       "beer-song.rkt"
