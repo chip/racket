@@ -108,6 +108,15 @@
         "topics": null
       },
       {
+        "slug": "beer-song",
+        "name": "Beer song",
+        "uuid": "55300ae4-25b4-4d2d-ab65-8481eb9ff6ca",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 1,
+        "topics": null
+      },
+      {
         "slug": "bob",
         "name": "Bob",
         "uuid": "3e5e67fa-991b-4120-abf0-6f10f9dfaca8",
